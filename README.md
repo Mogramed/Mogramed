@@ -40,6 +40,11 @@ I am especially motivated by projects where technology is not just interesting, 
 Beyond the technical side, I also care about product thinking, long-term vision, technical leadership, and the ability to move projects forward collaboratively.
 
 
+📌 On this GitHub, you will find a mix of academic, professional, and personal projects related to data, AI, finance, software engineering, and modern architectures.
+
+Feel free to explore my repositories.
+
+
 
 French version below 
 
@@ -89,6 +94,3 @@ Au-delà de la technique, je m’intéresse aussi à la dimension produit, à la
 📌 Ici, vous trouverez donc un mélange de projets académiques, professionnels et personnels autour de la data, de l’IA, de la finance, du développement logiciel et des architectures modernes.
 
 N’hésitez pas à explorer mes repositories.
-📌 On this GitHub, you will find a mix of academic, professional, and personal projects related to data, AI, finance, software engineering, and modern architectures.
-
-Feel free to explore my repositories.
