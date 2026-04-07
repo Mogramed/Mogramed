@@ -27,9 +27,8 @@
 
 ---
 
-<!-- Optional hero GIF -->
 <p align="center">
-  <img src="./assets/hero.gif" alt="Hero animation" width="900"/>
+  <img src="[LIEN_DIRECT_DU_GIF](https://media1.tenor.com/m/TBK6d8zFxiIAAAAd/one-piece-one-piece-op-26.gif)" alt="Luffy waving" width="260" />
 </p>
 
 ---
