@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="[LIEN_DIRECT_DU_GIF](https://media1.tenor.com/m/TBK6d8zFxiIAAAAd/one-piece-one-piece-op-26.gif)" alt="Luffy waving" width="260" />
+  <img src="./assets/luffy.gif" alt="Luffy Gear 5 waving" width="650" />
 </p>
 
 ---
