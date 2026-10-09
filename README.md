@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/luffy.gif" alt="Luffy Gear 5 waving" width="650" />
+  <img src="./assets/luffy.gif?raw=true" alt="Luffy Gear 5 waving" width="650" style="display: block;" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ My profile sits at the intersection of **engineering, AI, data, finance, and pro
 
 Currently, I am completing an apprenticeship as a **Data Scientist at HSBC Asset Management**, where I work on **data science and artificial intelligence** in the asset management domain, combining **machine learning, data processing, and financial analytics**.
 
-Previously, I completed an apprenticeship at **HSBC Global Banking & Markets**, in an environment combining **market finance, cloud technologies, automation, and data processing**. I also completed an international academic and technical experience in **Indonesia** at **Institut Teknologi Sepuluh Nopember (ITS)**, within a research-oriented environment combining mathematics, computer science, and intelligent systems.
+Previously, I completed a 3-year apprenticeship at **HSBC Global Banking & Markets**, in an environment combining **market finance, cloud technologies, automation, and data processing**. I also completed an international academic and technical experience in **Indonesia** at **Institut Teknologi Sepuluh Nopember (ITS)**, within a research-oriented environment combining mathematics, computer science, and intelligent systems.
 
 ### Focus Areas
 
@@ -59,19 +59,19 @@ Previously, I completed an apprenticeship at **HSBC Global Banking & Markets**, 
 ## Selected Projects
 
 ### F-chat
-A finance chatbot developed during my experience at ITS, designed as an intelligent application able to support users on finance-related questions, analysis workflows, and data-driven interactions. The chatbot combines natural language processing with financial domain expertise to deliver meaningful insights.
+A finance chatbot developed during my experience at ITS, designed as an intelligent application able to support users on finance-related questions, analysis workflows, and data-driven interactions.
 
 <!-- Optional GIF -->
 <p align="center">
-  <img src="./assets/fchat.gif" alt="F-chat demo" width="760"/>
+  <img src="./assets/fchat.gif?raw=true" alt="F-chat demo" width="760" style="display: block;" />
 </p>
 
 ### VaR-project
-A project focused on **quantitative finance and risk management**, centered on **Value at Risk computation**, scenario analysis, and decision-support logic. It reflects my interest in connecting **applied mathematics with practical financial tools and risk assessment**.
+A project focused on **quantitative finance and risk management**, centered on **Value at Risk computation**, scenario analysis, and decision-support logic. It reflects my interest in connecting **applied mathematics with practical financial tools**.
 
 <!-- Optional GIF -->
 <p align="center">
-  <img src="./assets/var.gif" alt="VaR project demo" width="760"/>
+  <img src="./assets/var.gif?raw=true" alt="VaR project demo" width="760" style="display: block;" />
 </p>
 
 ### ChainTicket
@@ -79,7 +79,7 @@ A blockchain-based ticketing project designed to tackle concrete issues such as 
 
 <!-- Optional GIF -->
 <p align="center">
-  <img src="./assets/chainticket.gif" alt="ChainTicket demo" width="760"/>
+  <img src="./assets/chainticket.gif?raw=true" alt="ChainTicket demo" width="760" style="display: block;" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ Mon profil se situe à l'intersection de **l'ingénierie, de la data, de l'IA, d
 
 Actuellement, je réalise une alternance en tant que **Data Scientist chez HSBC Asset Management**, où je travaille sur la **data science et l'intelligence artificielle** dans le domaine de la gestion d'actifs, combinant **machine learning, traitement de données et analytique financière**.
 
-Précédemment, j'ai réalisé une alternance chez **HSBC Global Banking & Markets**, dans un environnement mêlant **finance de marché, cloud, automatisation et traitement de données**. J'ai également réalisé une expérience académique et technique internationale en **Indonésie**, à l'**Institut Teknologi Sepuluh Nopember (ITS)**, dans un environnement de recherche mêlant mathématiques appliquées, informatique et systèmes intelligents.
+Précédemment, j'ai réalisé une alternance de **3 ans chez HSBC Global Banking & Markets**, dans un environnement mêlant **finance de marché, cloud, automatisation et traitement de données**. J'ai également réalisé une expérience académique et technique internationale en **Indonésie**, à l'**Institut Teknologi Sepuluh Nopember (ITS)**, dans un environnement de recherche mêlant mathématiques, informatique et systèmes intelligents.
 
 ### Centres d'intérêt techniques
 
@@ -146,10 +146,10 @@ Précédemment, j'ai réalisé une alternance chez **HSBC Global Banking & Marke
 ## Projets sélectionnés
 
 ### F-chat
-Un chatbot financier développé durant mon expérience à l'ITS, pensé comme une application intelligente capable d'assister l'utilisateur sur des problématiques liées à la finance, à l'analyse et aux interactions orientées données. Le chatbot combine le traitement du langage naturel avec une expertise du domaine financier.
+Un chatbot financier développé durant mon expérience à l'ITS, pensé comme une application intelligente capable d'assister l'utilisateur sur des problématiques liées à la finance, à l'analyse et aux interactions orientées données.
 
 ### VaR-project
-Un projet orienté **finance quantitative et gestion du risque**, centré sur le calcul de la **Value at Risk**, l'analyse de scénarios et l'aide à la décision. Il reflète mon intérêt pour la connexion entre **mathématiques appliquées et outils financiers pratiques d'évaluation des risques**.
+Un projet orienté **finance quantitative et gestion du risque**, centré sur le calcul de la **Value at Risk**, l'analyse de scénarios et l'aide à la décision. Il reflète mon intérêt pour la connexion entre **mathématiques appliquées et outils financiers pratiques**.
 
 ### ChainTicket
 Un projet de billetterie événementielle sur blockchain, conçu pour répondre à des problématiques concrètes telles que la **fraude, le scalping, la revente abusive et l'engagement post-événement**. L'idée est de construire une plateforme de billetterie programmable tirant parti de la blockchain pour la transparence et la sécurité.
